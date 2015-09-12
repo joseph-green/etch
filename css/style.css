@@ -1,0 +1,50 @@
+html {
+	background-color: #000;
+	text-align: center;
+
+}
+#title {
+	font-family: arial;
+	font-weight: bold;
+	color: #fff;
+	font-size: 3em;
+}
+.wrap {
+	text-align: center;
+	margin: 0 auto;
+}
+.box {
+	width: 6px;
+	height: 6px;
+	background-color: #fff;
+	padding: 0;
+	border: none;
+	
+
+
+}
+input {
+	background-color: #000;
+	border: 1px solid #fff;
+	color: #fff;
+	font-family: arial;
+	font-size: 1em;
+	padding: 0.5em;
+}
+button {
+	background-color: #fff;
+	color: #000;
+	border-radius: 0.5em;
+	padding: 0.3em;
+	border: none;
+}
+label {
+	color: #fff;
+	font-family: arial;
+}
+#error {
+	color: red;
+	font-family: arial;
+	font-size: 2em;
+	display: none;
+}
